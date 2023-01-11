@@ -1,2 +1,1 @@
-Jason Yamaguchi
-CNet ID: jyamaguchi
+Jason Yamaguchi; CNet ID: jyamaguchi
